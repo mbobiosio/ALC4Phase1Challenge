@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_to_alc">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="track">Track:</string>
+    <string name="country">Country:</string>
+    <string name="email">Email:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="name">Mbuodile Obiosio</string>
+    <string name="android_track">Android</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="email_id">cazewonder@gmail.com</string>
+    <string name="phone_no">2347030740617</string>
+    <string name="slack"><![CDATA[@cazewonder]]></string>
+    <string name="loading">Loading…</string>
+</resources>
